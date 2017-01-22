@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Sintony');
+
+
+body{
+  font-family: 'Sintony', sans-serif; 
+  font-size: 4.5rem;
+  line-height: 1.50;
+  background-color: #F4F6F6;
+}
+
+h1, h4{
+    text-align:center;
+}
+
+.progress.active .progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+}
+
+.jumbotron{
+    text-align:center;
+    background-color: #DAF7A6;
+}
+
+.btn-lg{
+    padding: 20px 150px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.btn{
+    padding: 10px 130px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.content{
+    padding: 0px 100px 0px 100px;
+}
+
+.trash{
+    color:#1A5276;
+}
+
+.recycle{
+    color:#28B463;
+}
+
+.userImg{
+    display: block;
+    margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    padding: #28B463;
+}
+
+.hideImg{
+    display:none;
+}
